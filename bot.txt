@@ -3,7 +3,6 @@ python
 
 
 
-bot.run(token)
 quit()
 
 
